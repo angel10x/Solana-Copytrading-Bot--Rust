@@ -1,5 +1,5 @@
 # Solana "Block-Speed" Copytrading Bot in Rust 🍳
-![GitHub Repo stars](https://img.shields.io/github/stars/sinniez/Rust-Copy-Trading-Tool)
+![GitHub Repo stars](https://img.shields.io/github/stars/jwest951227/solana-raydium-pumpfun-sniper-Rust)
 
 Tired of watching trades whiz by? Introducing the **Solana Block-Speed Copytrading Tool** in **Rust** 🦀. This bot is engineered for **extreme speed**, letting you mirror trades in (potentially) the same block. Built from the ground up in Rust for peak performance and rock-solid reliability. Get ready to ride the wave!
 
