@@ -110,5 +110,5 @@ TOKEN_PERCENTAGE=1 #percentage
 ## Support
 
 For support and further inquiries, please contact me 
-- <a href="https://t.me/sinniez/">Telegram</a>
-- <a href="https://discordapp.com/users/1114372741672488990">Discord (sinniez)</a>
+- <a href="https://t.me/angel001000010100/">Telegram</a> 
+- <a href="https://discordapp.com/users/1114372741672488990">Discord</a>
